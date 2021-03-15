@@ -33,7 +33,7 @@
 <fieldset>
 
 <!-- Form Name -->
-<legend>Murphy's(Sod's) Law or a Buckley's Chance of Success?</legend>
+<legend>Murphy's(Sod's) Law or a Buckley's Chance of Success</legend>
 
 <!-- Select Basic -->
 <div class="form-group">
@@ -152,7 +152,7 @@
 	<ol style="list-style-type: lower-greek;">
 		<li>Using Formula for Sod's Law provided by British Gas: ((U+C+I) x (10-S))/20 x A x 1/(1-sin(F/10))</li>
 		<li>Original <a href="http://wayback.archive.org/web/20060222100438/http://www.britishgasnews.co.uk/index.asp?PageID=16&Year=2004&NewsID=623">2004 British Gas page</a> on the Wayback machine
-		<li><a href="http://jhb434.info" style="text-decoration: none;" target="blank">jhb434</a><br>v0.90<br>
+		<li><a href="http://jhb434.com" style="text-decoration: none;" target="blank">jhb434</a><br>v0.91<br>
 		<script type="text/javascript">
 			document.write("Page load time: ", Date.now()-timerStart);
 		</script>ms
